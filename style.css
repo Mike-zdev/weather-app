@@ -1,0 +1,170 @@
+/* #countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: helvetica;
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    color: white;
+    background-color: hsl(214, 100%, 74%);
+    transition:background-color 0.25s;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.buttons:hover{
+background-color: hsl(214, 100%, 50%);
+}
+#label1{
+    text-align: center;
+    font-size: 3em;
+}
+#myBtn{
+    text-align: center;
+    font-size: 2em;
+    border-radius: 5px;
+}
+#myText{
+    
+} */
+/* form{
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    background-color: wheat;
+} */
+#myDiv{
+    position: relative;
+    border: 3px solid blue;
+    width: 300px;
+    height: 300px;
+    font-size: 4rem;;
+    background-color: aqua;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+} 
+/* 
+.buttons{
+    margin: 10px;
+    padding: 10px 15px;
+    font-size: 4rem;
+    border: none;
+    color: white;
+    background-color: hsl(200, 100%, 60%);
+}
+#mybutton{
+    border: none;
+    font-size: 2rem;
+    background-color: hsl(205, 100%, 20%);
+}
+.enabled {
+} 
+/* .blueBtn{
+    font-size: 2rem;
+    color: wheat;
+    background-color: hsl(0, 50%, 40%);
+}
+.enabled{
+    background-color: hsl(304, 100%, 60%);
+}
+.disabled{
+    background-color: hsl(0, 0%, 50%);
+/* } */
+.slider{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+.slider img{
+    width: 800px;
+    height: auto;
+    display: none;
+}
+img.displaySlides{
+    display: block;
+}
+/* body{
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+.weatherForm{
+    margin: 20px;
+}
+.cityName{
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    font-size: 2rem;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.myBtn{
+padding: 10px 20px;
+font-weight: bold;
+font-size: 2rem;
+border-radius: 10px;
+cursor: pointer;
+color: white;
+background-color: hsl(177, 70%, 41%);
+}
+.myBtn:hover{
+    background-color: hsl(177, 70%, 31%); 
+}
+.card{
+    background: linear-gradient(180deg,hsl(200, 100%, 75%),hsl(39, 100%, 75%));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 300px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px black;
+}
+h1{
+    
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+p{
+    font-size: 1.5rem;
+    margin: 5px 0;
+}
+.cityDisplay,tempDisplay{
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.descDisplay{
+    font-weight: bold;
+    font-size: 2rem;
+    font-style: italic;
+}
+.weatherEmoji{
+    font-size: 7.5rem;
+    margin: 0;
+}
+.errorDisplay{
+font-size: 2.5rem;
+font-weight: bold;
+
+}
+.humidityDisplay{
+    font-weight: bold;
+    margin-bottom: 25px;
+} */
+
+
+
+
+
+
+
+
